@@ -1,0 +1,8 @@
+# Comentario - No quiero la carpeta Target de ningun directorio /
+target/
+Thubms.db
+#Solo capeta target
+/target/
+registro????.txt
+informe*.*
+!final.txt
